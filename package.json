@@ -2,8 +2,9 @@
     "name": "tabbycat",
     "displayName": "TabbyCat",
     "description": "Tabby cat theme for VS Code",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "Tabby",
+    	"icon": "resources/icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/thetabbycat/vscode-tabbycat-syntax-theme.git"
