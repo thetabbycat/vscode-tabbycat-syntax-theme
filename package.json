@@ -1,27 +1,32 @@
 {
-    "name": "tabbycat",
-    "displayName": "TabbyCat",
-    "description": "Tabby cat theme for VS Code",
-    "version": "0.0.2",
-    "publisher": "Tabby",
-    	"icon": "resources/icon.png",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/thetabbycat/vscode-tabbycat-syntax-theme.git"
-  },
-    "engines": {
-        "vscode": "^1.40.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Tabby Cat",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Tabby Cat-color-theme.json"
-            }
-        ]
-    }
+	"name": "tabbycat",
+	"displayName": "TabbyCat",
+	"description": "Tabby cat theme for VS Code",
+	"version": "0.0.2",
+	"publisher": "Tabby",
+	"icon": "resources/icon.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/thetabbycat/vscode-tabbycat-syntax-theme.git"
+	},
+	"engines": {
+		"vscode": "^1.40.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Tabby Cat",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Tabby Cat-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "5dc36ed4-a59b-4f80-9e46-d8af92a1b324",
+		"publisherDisplayName": "Tabby Cat",
+		"publisherId": "6f4340ce-1ff7-42ff-b635-14c1e3872571"
+	}
 }
