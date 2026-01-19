@@ -1,9 +1,7 @@
 # Change Log
 
-All notable changes to the "tabbycat" extension will be documented in this file.
+## v.1.0.0
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+- Initial release actually. After six years 🤦‍♂️
+- No missing colors
+- Changed icon
